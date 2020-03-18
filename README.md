@@ -20,7 +20,7 @@ QueryAPI::queryServer(string $ip, int $port)
 <b>Return Values</b>
  - If the server queried is offline the function will return `false`...
  
- - If the server is online the data class `ServerData` will be returned...
+ - If the server is online the data class `ServerData` will be returned... (See <a href="https://github.com/DaRealPandaz/ServerQuery/src/DaRealPandaz/ServerQuery/Utils/Data/ServerData.php">Here</a> for more information)
  
 # Installation
 
