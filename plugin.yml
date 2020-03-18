@@ -1,0 +1,6 @@
+name: ServerQuery
+description: A plugin that relays information about a MCPE server to an user. (Also with an API)
+author: DaRealPandaz
+version: 1.0.0
+api: 3.0.0
+main: DaRealPandaz\ServerQuery\ServerQuery
