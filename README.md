@@ -8,7 +8,7 @@ ServerQuery is a PocketMine-MP plugin designed to query other MCPE servers while
 
 To query a server through you will need to import the `QueryAPI` class.
 ```php
-import DaRealPandaz\ServerQuery\API\QueryAPI;
+use DaRealPandaz\ServerQuery\API\QueryAPI;
 ```
 
 Once you have the class imported, use the static method `queryServer()` to retrieve a server's data...
