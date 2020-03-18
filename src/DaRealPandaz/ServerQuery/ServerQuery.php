@@ -11,7 +11,7 @@ class ServerQuery extends PluginBase {
 
     /** @var ServerQuery */
     static $instance;
-    static $isDebug = true;
+    static $isDebug = false;
 
     /**
      * @return ServerQuery
