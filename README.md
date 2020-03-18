@@ -24,7 +24,7 @@ QueryAPI::queryServer(string $ip, int $port)
  
 # Installation
 
-Hopefully, I will have this plugin on <a href="https://poggit.pmmp.io">Poggit</a> soon. But until then, head over to <a>releases</a> and download the latest version of `ServerQuery`.
+Hopefully, I will have this plugin on <a href="https://poggit.pmmp.io">Poggit</a> soon. But until then, head over to <a href="https://github.com/DaRealPandaz/ServerQuery/releases/tag/1.0.0">releases</a> and download the latest version of `ServerQuery`.
 
 # Contributing
 
